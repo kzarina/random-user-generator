@@ -1,0 +1,10 @@
+table {
+  width: 100%;
+}
+
+tr,
+th,
+td {
+  outline: 1px solid purple;
+  padding: 7px;
+}
